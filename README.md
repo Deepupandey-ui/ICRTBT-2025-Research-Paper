@@ -32,6 +32,9 @@ The work explores how modern technology, sustainability intelligence, and renewa
 
 Unlike traditional theoretical research, this initiative also includes a real-world implementation platform called **BioWaste AI**, designed to combine Artificial Intelligence, sustainability analytics, and smart waste intelligence into a practical ecosystem.
 
+<img width="703" height="840" alt="image" src="https://github.com/user-attachments/assets/39b2ffa8-0c96-407f-b3fe-352d766f5a51" />
+
+
 ---
 
 # 🚀 BioWaste AI Platform
